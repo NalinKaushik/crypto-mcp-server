@@ -415,7 +415,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your.email@example.com"}
+    {name = "Nalin Kaushik", email = "nalinkaushik4184@gmail.com"}
 ]
 keywords = ["mcp", "cryptocurrency", "ccxt", "market-data", "trading"]
 classifiers = [
@@ -510,4 +510,5 @@ print("✓ Comprehensive documentation with features, usage, API reference")
 print("\n.env.example created successfully")
 print("✓ Configuration template for all settings")
 print("\npyproject.toml created successfully")
+
 print("✓ Package configuration with metadata and dependencies")
